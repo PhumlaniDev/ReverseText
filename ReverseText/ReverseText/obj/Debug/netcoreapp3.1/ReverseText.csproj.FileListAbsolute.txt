@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.exe
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.deps.json
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.runtimeconfig.json
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.runtimeconfig.dev.json
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.dll
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\bin\Debug\netcoreapp3.1\ReverseText.pdb
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.dll
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.pdb
+C:\Users\User\Desktop\Projects\DotNET\ReverseText\ReverseText\ReverseText\obj\Debug\netcoreapp3.1\ReverseText.genruntimeconfig.cache
